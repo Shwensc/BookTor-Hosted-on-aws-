@@ -1,7 +1,5 @@
-# Tis project is a full-stack web application built using React js for the frontend, Express js for the backend, and MySQL as the database. The application is designed to #demonstrate the implementation of a 3-tier architecture, where the presentation layer (React js), application logic layer (Express js), and data layer (MySQL) are #separated into distinct tiers.
+# Tis project is a full-stack web application built using React js for the frontend, Express js for the backend, and MySQL as the database.
 #Made by et moi
-#Steps to runnn:
-
 
 ## User Interface Screenshots 
 #### Dashboard
@@ -13,7 +11,7 @@
 #### Authors
 ![Dashboard](./frontend/public/ss/authors.png)
 
-
+#Guide to hosting on aws:
 ## Connecting to private EC2 instance via a bastion host
 1. To change the ssh key permission:
 
